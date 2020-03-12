@@ -1,7 +1,4 @@
 package com.burt
 
-println "Hello Groovy!"
-1..10.each { println it }
-class Tester{
-	
-}
+a = 77
+println "a: ${a}"
